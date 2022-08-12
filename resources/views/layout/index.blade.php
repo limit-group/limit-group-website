@@ -111,7 +111,7 @@
                 Nairobi, 000100<br />
                 Kenya<br /><br />
                 <strong>Phone:</strong> +254 759 701 314<br />
-                <strong>Email:</strong> Limit Solutions@gmail.com<br />
+                <strong>Email:</strong> limitsolutions4@gmail.com<br />
               </p>
             </div>
           </div>
