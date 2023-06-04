@@ -2,12 +2,10 @@
 
 Limit-Tech is a IT consultancy and software development company with offices anywhere in the world. We offer among other services, website creation services to businesses to enable them reach a global digital audience.
 
--   Web Design.
--   Web Development
--   Product Management.
 -   Social Media Branding.
 -   Graphic Design.
 -   Content Marketing.
+-   Internet Marketing Service.
 
 ### Past Projects.
 
